@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rickyxie2004
-- 👀 I’m interested in 'moyu'
-- 🌱 I’m currently learning oop & Intro of AI & DM (even more computer courses than my major courses👀)
+- 👀 I’m interested in Computer Vision and Model Quantilization.
+- 🌱 I’m currently learning and struggling to improve my ability of coding.
 - 💞️ I’m looking to collaborate with 'dalao'
-struggling with C++,Python,Bash,Makefile,R and SQL in 28 days of summer semester.
+- Grasped C++, Python and R. Gaining experience with environment set up while having faced numerous problems with package version.
 
 <!---
 rickyxie2004/rickyxie2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
